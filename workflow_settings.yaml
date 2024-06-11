@@ -1,0 +1,5 @@
+defaultProject: clicflyer-c7f5e
+defaultLocation: europe-north1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0-beta.4
